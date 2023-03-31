@@ -1,0 +1,1 @@
+test_comparison	../data/sample_metadata.tsv	../data/vv22_star_gene_counts.tsv	~ species	species,rueppelli,vulpes	ADAM18,ADARB2,AGA,AKAP9,ANKMY1
